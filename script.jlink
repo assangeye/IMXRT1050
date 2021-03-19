@@ -1,0 +1,7 @@
+ExitOnError 1
+r
+h
+loadfile "C:\Users\edz\Documents\MCUXpressoIDE_11.2.1_4149\workspace\IMXRT1050_Demo\Debug\IMXRT1050_Demo.hex"
+qc
+
+qc

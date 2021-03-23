@@ -22,7 +22,8 @@ source/IMXRT1050_Demo.o source/IMXRT1050_Demo.d: \
  C:\Users\edz\Documents\MCUXpressoIDE_11.2.1_4149\workspace\IMXRT1050_Demo\component\serial_manager/serial_port_uart.h \
  C:\Users\edz\Documents\MCUXpressoIDE_11.2.1_4149\workspace\IMXRT1050_Demo\component\uart/uart.h \
  C:\Users\edz\Documents\MCUXpressoIDE_11.2.1_4149\workspace\IMXRT1050_Demo\drivers/fsl_gpio.h \
- C:\Users\edz\Documents\MCUXpressoIDE_11.2.1_4149\workspace\IMXRT1050_Demo\drivers/fsl_pit.h
+ C:\Users\edz\Documents\MCUXpressoIDE_11.2.1_4149\workspace\IMXRT1050_Demo\drivers/fsl_pit.h \
+ C:\Users\edz\Documents\MCUXpressoIDE_11.2.1_4149\workspace\IMXRT1050_Demo\drivers/fsl_lpuart.h
 
 C:\Users\edz\Documents\MCUXpressoIDE_11.2.1_4149\workspace\IMXRT1050_Demo\board/board.h:
 
@@ -69,3 +70,5 @@ C:\Users\edz\Documents\MCUXpressoIDE_11.2.1_4149\workspace\IMXRT1050_Demo\compon
 C:\Users\edz\Documents\MCUXpressoIDE_11.2.1_4149\workspace\IMXRT1050_Demo\drivers/fsl_gpio.h:
 
 C:\Users\edz\Documents\MCUXpressoIDE_11.2.1_4149\workspace\IMXRT1050_Demo\drivers/fsl_pit.h:
+
+C:\Users\edz\Documents\MCUXpressoIDE_11.2.1_4149\workspace\IMXRT1050_Demo\drivers/fsl_lpuart.h:

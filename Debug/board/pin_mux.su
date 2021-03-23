@@ -2,4 +2,4 @@ fsl_clock.h:1042:20:CLOCK_ControlGate	32	static
 fsl_clock.h:1059:20:CLOCK_EnableClock	16	static
 fsl_iomuxc.h:1093:20:IOMUXC_SetPinMux	24	static
 pin_mux.c:30:6:BOARD_InitBootPins	8	static
-pin_mux.c:49:6:BOARD_InitPins	24	static
+pin_mux.c:51:6:BOARD_InitPins	24	static
